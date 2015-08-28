@@ -1,0 +1,13 @@
+{
+  "name": "Youtube embed filter",
+  "description": "Youtube embed filter",
+  "dependencies": {
+    "angular": "~1.4.4"
+  },
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
